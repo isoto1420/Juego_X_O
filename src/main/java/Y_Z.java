@@ -600,5 +600,5 @@ public class Y_Z extends javax.swing.JFrame {
     private javax.swing.JLabel lbpuntajeO;
     private javax.swing.JLabel lbpuntajeX;
     // End of variables declaration//GEN-END:variables
-}
+}//proyecto git hub
 
